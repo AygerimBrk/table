@@ -1,0 +1,17 @@
+.appbar {
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid black; */
+}
+.logo {
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: -30%;
+}
+.search {
+  border-radius: 5px;
+}
+.button {
+  border-radius: 5px;
+}

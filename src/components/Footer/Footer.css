@@ -1,0 +1,36 @@
+footer {
+  margin-top: 100px;
+  background-color: #eaecec;
+  color: #6c757d;
+}
+.footer_start {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #adb5bd;
+}
+.footer_icon {
+  margin-top: 20px;
+  width: 20%;
+}
+.icon {
+  width: 7%;
+  margin-left: 10px;
+}
+.footer_info {
+  display: flex;
+  justify-content: space-around;
+}
+.control_text {
+  width: 17%;
+}
+.footer__list {
+  list-style-type: none;
+}
+.list > a {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: #6c757d;
+}
